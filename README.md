@@ -9,22 +9,22 @@ Bitki yapraklarındaki hastalıklar, nüfus artışına bağlı olarak gıda tal
 
 Görüntü işleme algoritması, sayısal görüntü işleme tekniklerini içeren bir fonksiyon içermektedir. İlk olarak, verilen bir görüntü dosyası OpenCV kütüphanesi kullanılarak okunmuş gri tonlamaya çevirilip ardından Gauss filtresi ve Canny kenar dedektörü uygulanmıştır. Daha sonra, kenarları birbirine bağlamak için genişletme işlemi (dilation) gerçekleştirilmiştir. Bağlantılı bileşen analizi kullanılarak görüntüdeki bağlantılı bileşenler tespit edilmiştir ve en büyük bileşen (genellikle yaprak) belirlenmiştir. Belirlenen bileşen maskeleme işlemiyle orijinal görüntüden izole edilmiş ve HSV renk uzayına dönüştürülmüştür. Bu işlemin ardından, yeşil renk aralığına uygun bir maske oluşturulmuş ve bu maske tersine çevirilerek yeşil olmayan bölgeleri vurgulanmıştır. Bu bölgeler hastalıklı kısımlar olarak tespit edilmiştir. Sonuçları görselleştirmek için matplotlib kütüphanesi kullanılarak işlemin her adımı yan yana gösterilmiştir.
 
-Sonuçlar
-
+### Sonuçlar
+## 1
 ![](result.jpg)
-
+## 2
 ![](result2.jpg)
-
+## 3
 ![](result3.jpg)
-
+## 4
 ![](result4.jpg)
-
+## 5
 ![](result5.jpg)
-
+## 6
 ![](result6.jpg)
-
+## 7
 ![](result7.jpg)
-
+## 8
 ![](result8.jpg)
 
 
