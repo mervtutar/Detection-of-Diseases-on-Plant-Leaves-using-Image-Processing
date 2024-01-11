@@ -10,7 +10,6 @@ Görüntü işleme algoritması, sayısal görüntü işleme tekniklerini içere
 
 Sonuçlar
 
-![alt text](file:///C:/Users/Merve/Desktop/dzd.jpg)
-
+![](result.jpg)
 
 
