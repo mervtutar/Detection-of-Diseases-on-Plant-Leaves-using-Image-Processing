@@ -11,7 +11,7 @@ Görüntü işleme algoritması, sayısal görüntü işleme tekniklerini içere
 
 ### Sonuçlar
 ## 1
-![](result.jpg)
+![](Results/result.jpg)
 ## 2
 ![](result2.jpg)
 ## 3
