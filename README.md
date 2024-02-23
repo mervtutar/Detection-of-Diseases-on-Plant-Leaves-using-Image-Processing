@@ -13,19 +13,19 @@ Görüntü işleme algoritması, sayısal görüntü işleme tekniklerini içere
 ## 1
 ![](Results/result.jpg)
 ## 2
-![](result2.jpg)
+![](Results/result2.jpg)
 ## 3
-![](result3.jpg)
+![](Results/result3.jpg)
 ## 4
-![](result4.jpg)
+![](Results/result4.jpg)
 ## 5
-![](result5.jpg)
+![](Results/result5.jpg)
 ## 6
-![](result6.jpg)
+![](Results/result6.jpg)
 ## 7
-![](result7.jpg)
+![](Results/result7.jpg)
 ## 8
-![](result8.jpg)
+![](Results/result8.jpg)
 
 
 
